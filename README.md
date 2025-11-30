@@ -10,8 +10,6 @@ To achieve this, the application sends packets and scans the response on all pin
 For the user it is as simple as a continuity tester - wire up your two test needles (or accupuncture needles), connect the obvious GND pin and probe all test pads.
 Now it depends on your bisect capabilities finding all pad combinations, how long it will take this time.
 
-https://cdn.discordapp.com/attachments/954430078882816021/1071603366741938176/20230205_022641.mp4
-
-https://cdn.discordapp.com/attachments/1071712925171056690/1072306469057347594/qFlipper_2023-02-07_01-01-24.mp4 
-
+Video 1: https://www.youtube.com/watch?v=4vAWFcUPVeo
+Video 2: https://www.youtube.com/watch?v=dmkluzQWcp4
 Discussion thread: https://discord.com/channels/740930220399525928/1071712925171056690
